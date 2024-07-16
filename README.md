@@ -1,3 +1,4 @@
-### Demo
 
-https://code-sync.codersgyan.com/
+## Run the Project
+
+Click [here](https://your-username.github.io/your-repo) to view the project.
