@@ -1,4 +1,8 @@
 
 ## Run the Project
 
-Click [here](https://kishankr1777.github.io/code-sync) to view the project.
+### Frontend
+`npm run start:front`
+
+### Backend
+`npm run server:dev`
